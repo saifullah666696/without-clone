@@ -1,7 +1,6 @@
 p{
-    color:white;
-    background-image: linear-gradient(180deg,red,yellow,green);
-    font-size: 24px;
-    -webkit-background-clip:text;
-    -webkit-text-fill-color: transparent;
+-webkit-text-stroke: 1px red;
+/* -webkit-text-stroke-color: 2px red; */
+font-size: 34px;
+font-weight: bold;
 }
